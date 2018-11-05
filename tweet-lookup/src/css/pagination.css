@@ -1,0 +1,23 @@
+.page-number-box {
+	list-style: none;
+	display: flex;
+	margin-top: 20px;
+	padding-inline-start: 0px !important;
+	justify-content: center;
+}
+
+.page-number-box>li {
+	margin-right: 15px;
+	color: #8898a5;
+	user-select: none;
+	cursor: pointer;
+	padding: 3px 5px;
+}
+.page-number-box>li:hover {
+	background-color: #1da1f2;
+	color: #ffffff;
+	transition: 0.2s ease;
+	border-radius: 5px;
+	
+}
+::-webkit-scrollbar { width: 0 !important }
