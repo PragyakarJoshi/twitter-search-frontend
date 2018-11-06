@@ -1,16 +1,20 @@
 <h2>Twitter Lookup</h2>
-<p>Twitter Lookup is a twitter client that allows users to search for tweets in twitter. 
+<p>Twitter Lookup is a twitter client that allows users to search for tweets from twitter. 
 <br>
 Front End UI built with React JS.</p>
 <h3>Installation</h3>
 Clone this repo and run the application with npm. 
 <br>
 Use these commands in the Terminal:
+<br>
 <pre>
 $ git clone https://github.com/PragyakarJoshi/twitter-search-frontend.git
 $ cd twitter-search-frontend
 $ npm start
+<br>
+visit https://localhost:3000/
 </pre>
+
 <h3>Prerequisites</h3>
 <ul>
  <li><a href="https://github.com/nodejs/node">NPM - Node Package Manager</a></li>
