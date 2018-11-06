@@ -22,4 +22,4 @@ $ npm start
 <br>
 Twitter Lookup API Server for this application can be found <a href="https://github.com/PragyakarJoshi/twitter-lookup-api-service">here.</a>
 <h3>Screenshots</h3>
-
+<img src="ss.PNG" height="500px">
